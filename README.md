@@ -209,7 +209,14 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KairoHenrique/kairohenrique/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KairoHenrique/kairohenrique/output/featured-game-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KairoHenrique/kairohenrique/output/featured-game.svg">
+    <img alt="Arcade contribution graph animation" src="https://raw.githubusercontent.com/KairoHenrique/kairohenrique/output/featured-game-dark.svg">
+  </picture>
+</p>
+<p align="center">
+  <i>🎲 This game changes every 15 minutes! — Pac-Man • Breakout • Galaga • Snake • Bomberman</i>
 </p>
 
 <p align="center">

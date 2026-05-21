@@ -1,0 +1,52 @@
+name: Generate Arcade Game Animation
+
+on:
+  schedule:
+    - cron: "*/15 * * * *" # Runs every 15 minutes
+  workflow_dispatch: # Allows manual trigger
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      # Generate 4 arcade games (Pac-Man, Breakout, Galaga, Bomberman)
+      - name: Generate Arcade Games
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: 'pacman,breakout,galaga,bomberman'
+
+      # Generate the classic Snake animation
+      - name: Generate Snake Game
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-contribution-graph.svg
+            dist/snake-contribution-graph-dark.svg?palette=github-dark
+
+      # Randomly pick one game and copy it as the "featured" game
+      - name: Pick random game for profile
+        run: |
+          GAMES=("pacman" "breakout" "galaga" "snake" "bomberman")
+          RANDOM_INDEX=$((RANDOM % ${#GAMES[@]}))
+          PICKED=${GAMES[$RANDOM_INDEX]}
+          echo "🎲 Selected game: $PICKED"
+          cp "dist/${PICKED}-contribution-graph-dark.svg" "dist/featured-game-dark.svg"
+          cp "dist/${PICKED}-contribution-graph.svg" "dist/featured-game.svg"
+
+      # Push all generated SVGs to the output branch
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
