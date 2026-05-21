@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%91%8B+Hey%2C+I'm+Kairo+Henrique!;Computer+Engineering+%7C+CEFET-MG;Full-Stack+Developer+%7C+Game+Dev+%40+Studio+Vessel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%91%8B+Hey%2C+I'm+Kairo+Henrique!;Computer+Engineering+%7C+CEFET-MG;Full-Stack+Developer+%7C+Game+Dev+Studio+Vessel" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -25,7 +25,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **Education:** Computer Engineering | CEFET-MG
-- 💼 **Roles:** Full-Stack Developer • Game Dev @ Studio Vessel
+- 💼 **Roles:** Full-Stack Developer • Game Dev Studio Vessel
 - 🗣️ **Languages:** Portuguese (Native) • English (Intermediate) • Spanish (Intermediate)
 
 - 🔭 I'm currently building **HealthBridge** — an AI-powered medical triage & scheduling system
