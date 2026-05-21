@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%91%8B+Hey%2C+I'm+Kairo+Henrique!;Computer+Engineering+%7C+CEFET-MG;Full-Stack+Developer+%7C+Game+Dev;Building+cool+things+with+code+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%91%8B+Hey%2C+I'm+Kairo+Henrique!;Computer+Engineering+%7C+CEFET-MG;Full-Stack+Developer+%7C+Game+Dev+%40+Studio+Vessel" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -24,15 +24,9 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name: Kairo Henrique Ferreira Martins
-location: Divinópolis, MG — Brazil
-education: Computer Engineering | CEFET-MG (2024–2029 | 5th Semester)
-roles:
-  - Full-Stack Developer
-  - Game Developer
-languages: Portuguese (native), English (intermediate), Spanish (intermediate)
-```
+- 🎓 **Education:** Computer Engineering | CEFET-MG
+- 💼 **Roles:** Full-Stack Developer • Game Dev @ Studio Vessel
+- 🗣️ **Languages:** Portuguese (Native) • English (Intermediate) • Spanish (Intermediate)
 
 - 🔭 I'm currently building **HealthBridge** — an AI-powered medical triage & scheduling system
 - 🎮 Also developing **Whispers of the Mind**, a 2D Metroidvania!
@@ -215,7 +209,7 @@ languages: Portuguese (native), English (intermediate), Spanish (intermediate)
 ---
 
 <p align="center">
-  <img src="https://github.com/KairoHenrique/KairoHenrique/blob/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/KairoHenrique/kairohenrique/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
