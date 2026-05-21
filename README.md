@@ -193,9 +193,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KairoHenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img width="49%" src="https://raw.githubusercontent.com/KairoHenrique/kairohenrique/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/KairoHenrique/kairohenrique/main/profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos per Language" />
   &nbsp;
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KairoHenrique&layout=compact&langs_count=10&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img width="49%" src="https://raw.githubusercontent.com/KairoHenrique/kairohenrique/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/KairoHenrique/kairohenrique/main/profile-summary-card-output/dracula/3-stats.svg" alt="Stats" />
+  &nbsp;
+  <img width="49%" src="https://raw.githubusercontent.com/KairoHenrique/kairohenrique/main/profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive Time" />
 </p>
 
 <p align="center">
