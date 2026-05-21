@@ -2,7 +2,7 @@ name: Generate Arcade Game Animation
 
 on:
   schedule:
-    - cron: "*/15 * * * *" # Runs every 15 minutes
+    - cron: "0 */6 * * *" # Runs every 6 hours (safe for free tier limits)
   workflow_dispatch: # Allows manual trigger
   push:
     branches:
@@ -16,15 +16,32 @@ jobs:
     timeout-minutes: 20
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       # Generate 4 arcade games (Pac-Man, Breakout, Galaga, Bomberman)
       - name: Generate Arcade Games
+        id: arcade
+        continue-on-error: true
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           games: 'pacman,breakout,galaga,bomberman'
 
-      # Generate the classic Snake animation
+      # Retry arcade games if first attempt failed
+      - name: Retry Arcade Games
+        if: steps.arcade.outcome == 'failure'
+        id: arcade_retry
+        continue-on-error: true
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: 'pacman,breakout,galaga,bomberman'
+
+      # Generate the classic Snake animation (very stable, rarely fails)
       - name: Generate Snake Game
+        id: snake
+        continue-on-error: true
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -32,15 +49,44 @@ jobs:
             dist/snake-contribution-graph.svg
             dist/snake-contribution-graph-dark.svg?palette=github-dark
 
-      # Randomly pick one game and copy it as the "featured" game
+      # Randomly pick one game from those that succeeded
       - name: Pick random game for profile
         run: |
-          GAMES=("pacman" "breakout" "galaga" "snake" "bomberman")
+          mkdir -p dist
+          GAMES=()
+
+          # Check which arcade games were generated
+          for game in pacman breakout galaga bomberman; do
+            if [ -f "dist/${game}-contribution-graph-dark.svg" ] && [ -f "dist/${game}-contribution-graph.svg" ]; then
+              GAMES+=("$game")
+              echo "✅ ${game} generated successfully"
+            else
+              echo "⚠️ ${game} was not generated"
+            fi
+          done
+
+          # Check if snake was generated
+          if [ -f "dist/snake-contribution-graph-dark.svg" ] && [ -f "dist/snake-contribution-graph.svg" ]; then
+            GAMES+=("snake")
+            echo "✅ snake generated successfully"
+          else
+            echo "⚠️ snake was not generated"
+          fi
+
+          # Pick a random game from available ones
+          if [ ${#GAMES[@]} -eq 0 ]; then
+            echo "❌ No games were generated! Workflow will fail."
+            exit 1
+          fi
+
           RANDOM_INDEX=$((RANDOM % ${#GAMES[@]}))
           PICKED=${GAMES[$RANDOM_INDEX]}
-          echo "🎲 Selected game: $PICKED"
+          echo "🎲 Selected game: $PICKED (from ${#GAMES[@]} available games)"
           cp "dist/${PICKED}-contribution-graph-dark.svg" "dist/featured-game-dark.svg"
           cp "dist/${PICKED}-contribution-graph.svg" "dist/featured-game.svg"
+
+          echo "📁 Files in dist:"
+          ls -la dist/
 
       # Push all generated SVGs to the output branch
       - name: Push to output branch
