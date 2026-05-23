@@ -226,9 +226,6 @@
   </picture>
 </p>
 <p align="center">
-  <i>🎲 This game changes every 15 minutes! — Pac-Man • Breakout • Galaga • Snake • Bomberman</i>
+  <i>🎲 This game changes: Pac-Man • Breakout • Galaga • Snake • Bomberman</i>
 </p>
 
-<p align="center">
-  <i>⭐ From <a href="https://github.com/KairoHenrique">KairoHenrique</a> — Let's build something amazing together!</i>
-</p>
