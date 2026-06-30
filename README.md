@@ -28,7 +28,7 @@
 - 💼 **Roles:** Full-Stack Developer • Game Dev Studio Vessel
 - 🗣️ **Languages:** Portuguese (Native) • English (Intermediate) • Spanish (Intermediate)
 
-- 🔭 I'm currently building **HealthBridge** — an AI-powered medical triage & scheduling system
+- 🔭 Built **HealthBridge** — an AI-powered medical triage & scheduling system
 - 🎮 Also developing **Whispers of the Mind**, a 2D Metroidvania!
 - 👨‍🏫 Former **Teaching Assistant** for Intro to Programming at CEFET-MG (2024)
 - 💼 **Intern at Prefeitura de Divinópolis** (2025–2026)
@@ -39,11 +39,19 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,lua,js,ts,html,css,latex&perline=10" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,lua,js,ts,html,css,ruby,bash,latex&perline=12" alt="Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,electron,nodejs,fastapi,git,github,vscode,linux,figma&perline=10" alt="Frameworks & Tools"/>
+  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,electron,nodejs,fastapi,supabase,postgres,sqlite,playwright&perline=10" alt="Frameworks & Tools"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&perline=10" alt="Tools"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
 </p>
 
 <p align="center">
@@ -56,17 +64,26 @@
   <img src="https://img.shields.io/badge/TIC--80-29A0E0?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABSSURBVChTY/hPAAyEaGIAkyNO0Kj4/zsgMIYSRAEmR5ygUXEQkCBCHAOYHHGCRsVBQIIIcQxgcsQJGhUHAQkixDGAyREnaFQcBCSIEP8PAACuXA8P8GTHPQAAAABJRU5ErkJggg==&logoColor=white" alt="TIC-80"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Stata-1A5F8C?style=for-the-badge&logo=stata&logoColor=white" alt="Stata"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Standard%20ML-DD0028?style=for-the-badge&logoColor=white" alt="Standard ML"/>
+</p>
+
 <details>
 <summary>📋 <b>Detailed Skill Breakdown</b></summary>
 <br>
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | C, C++, Python, Java, Lua, JavaScript, TypeScript, HTML, CSS, LaTeX |
-| **Front-End** | React, Vite, HTML5, CSS3 |
-| **Back-End** | Node.js, FastAPI, Python |
+| **Languages** | C, C++, Python, Java, Lua, JavaScript, TypeScript, HTML, CSS, Ruby, Shell (Bash), LaTeX, Standard ML |
+| **Front-End** | React, Next.js, Vite, HTML5, CSS3 |
+| **Back-End** | Node.js, FastAPI, Python, SQLAlchemy, Pydantic, Uvicorn |
+| **Databases & BaaS** | PostgreSQL, SQLite, Supabase |
 | **Desktop** | Electron |
 | **Game Dev** | Godot (GDScript), GameMaker (GML), TIC-80 (Lua) |
+| **Academic & Data** | Stata, Standard ML |
+| **Testing** | Playwright |
 | **Tools** | Git, GitHub, VS Code, Figma, Linux, Bash |
 | **Methodologies** | Scrum, Agile |
 
@@ -90,16 +107,19 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏥 HealthBridge</h3>
+      <h3 align="center">📚 Acme Hub</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" alt="Status"/>
+        <a href="https://github.com/KairoHenrique/CEFET-Academic-Planner" target="_blank">
+          <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" alt="Status"/>
+        </a>
       </p>
-      <p><b>AI-powered medical triage & scheduling system.</b> Acting as Scrum Master and Back-End developer. Features intelligent symptom analysis for patient prioritization.</p>
+      <p><b>Smart academic planner with SIGAA sync.</b> Pulls grades, schedules, and tasks automatically and turns them into a modern dashboard with calendar, semester progress, and deadline tracking.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="AI"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
       </p>
     </td>
   </tr>
@@ -118,18 +138,20 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔥 Fire Simulator</h3>
+      <h3 align="center">🏥 HealthBridge</h3>
       <p align="center">
-        <a href="https://github.com/KairoHenrique/Simulador-de-Incendio" target="_blank">
+        <a href="https://github.com/KairoHenrique/HealthBridge" target="_blank">
           <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" alt="Status"/>
-          &nbsp;
-          <img src="https://img.shields.io/github/stars/KairoHenrique/Simulador-de-Incendio?style=flat-square&color=yellow" alt="Stars"/>
         </a>
       </p>
-      <p><b>Forest fire spread simulation with Raylib.</b> Visual representation of dynamic systems using algorithms and data structures. Real-time rendering of fire propagation.</p>
+      <p><b>AI-powered medical triage & scheduling system.</b> Acting as Scrum Master and Back-End developer. Features intelligent symptom analysis for patient prioritization.</p>
       <p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-        <img src="https://img.shields.io/badge/Raylib-000000?style=flat-square" alt="Raylib"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+        <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="AI"/>
       </p>
     </td>
   </tr>
@@ -139,8 +161,6 @@
       <p align="center">
         <a href="https://github.com/KairoHenrique/Algoritmo-Genetico-Ajuste-Linear" target="_blank">
           <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" alt="Status"/>
-          &nbsp;
-          <img src="https://img.shields.io/github/stars/KairoHenrique/Algoritmo-Genetico-Ajuste-Linear?style=flat-square&color=yellow" alt="Stars"/>
         </a>
       </p>
       <p><b>Evolutionary curve fitting simulator.</b> Uses genetic algorithms to find optimal linear regression coefficients by minimizing Mean Squared Error.</p>
@@ -153,8 +173,6 @@
       <p align="center">
         <a href="https://github.com/KairoHenrique/Sistema-de-recomendacao" target="_blank">
           <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" alt="Status"/>
-          &nbsp;
-          <img src="https://img.shields.io/github/stars/KairoHenrique/Sistema-de-recomendacao?style=flat-square&color=yellow" alt="Stars"/>
         </a>
       </p>
       <p><b>Movie recommendation engine.</b> Suggests relevant content based on user ratings using collaborative filtering algorithms.</p>
@@ -185,7 +203,7 @@
 
 - 🧩 **Design Patterns** — Writing more robust, scalable code
 - 🤖 **Artificial Intelligence** — Applied to healthcare and game systems
-- 🌐 **Web Development** — Full-Stack with React, TypeScript & FastAPI
+- 🌐 **Web Development** — Full-Stack with React, Next.js, TypeScript, FastAPI & Supabase
 - 🏗️ **Software Architecture** — Clean Architecture, SOLID principles
 
 ---
@@ -193,19 +211,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/KairoHenrique/kairohenrique/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" />
+  <img width="49%" src="https://raw.githubusercontent.com/KairoHenrique/kairohenrique/main/profile-summary-card-output/dracula/0-profile-details.svg?v=5b6a6fc" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/KairoHenrique/kairohenrique/main/profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos per Language" />
+  <img width="49%" src="https://raw.githubusercontent.com/KairoHenrique/kairohenrique/main/profile-summary-card-output/dracula/1-repos-per-language.svg?v=5b6a6fc" alt="Repos per Language" />
   &nbsp;
-  <img width="49%" src="https://raw.githubusercontent.com/KairoHenrique/kairohenrique/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img width="49%" src="https://raw.githubusercontent.com/KairoHenrique/kairohenrique/main/profile-summary-card-output/dracula/2-most-commit-language.svg?v=5b6a6fc" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/KairoHenrique/kairohenrique/main/profile-summary-card-output/dracula/3-stats.svg" alt="Stats" />
+  <img width="49%" src="https://raw.githubusercontent.com/KairoHenrique/kairohenrique/main/profile-summary-card-output/dracula/3-stats.svg?v=5b6a6fc" alt="Stats" />
   &nbsp;
-  <img width="49%" src="https://raw.githubusercontent.com/KairoHenrique/kairohenrique/main/profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive Time" />
+  <img width="49%" src="https://raw.githubusercontent.com/KairoHenrique/kairohenrique/main/profile-summary-card-output/dracula/4-productive-time.svg?v=5b6a6fc" alt="Productive Time" />
 </p>
 
 <p align="center">
@@ -213,7 +231,7 @@
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=KairoHenrique&theme=dracula&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img width="90%" src="https://github-profile-trophy-gamma.vercel.app/?username=KairoHenrique&theme=dracula&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
