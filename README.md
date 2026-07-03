@@ -11,6 +11,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
+  <a href="https://kairo-wine.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-003DA5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/KairoHenrique" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -24,6 +28,7 @@
 
 ## 🧑‍💻 About Me
 
+- 🌐 **Portfolio:** [kairo-wine.vercel.app](https://kairo-wine.vercel.app)
 - 🎓 **Education:** Computer Engineering | CEFET-MG
 - 💼 **Roles:** Full-Stack Developer • Game Dev Studio Vessel
 - 🗣️ **Languages:** Portuguese (Native) • English (Intermediate) • Spanish (Intermediate)
