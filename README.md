@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=%F0%9F%91%8B+Hey%2C+I'm+Kairo+Henrique!;Computer+Engineering+%7C+CEFET-MG+(6th+period);Full-Stack+%7C+Mobile+%7C+Game+Dev+Studio+Vessel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%91%8B+Hey%2C+I'm+Kairo+Henrique!;Computer+Engineering+%7C+CEFET-MG+6th+Semester;Full-Stack+Developer+%7C+Game+Dev+Studio+Vessel" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -29,18 +29,18 @@
 ## 🧑‍💻 About Me
 
 - 🌐 **Portfolio:** [kairo-wine.vercel.app](https://kairo-wine.vercel.app)
-- 🎓 **Education:** Computer Engineering | CEFET-MG (6th period)
-- 💼 **Roles:** Full-Stack · Mobile · Game Dev (Studio Vessel)
-- 🗣️ **Languages:** Portuguese (Native) · English (Intermediate) · Spanish (Intermediate)
+- 🎓 **Education:** Computer Engineering | CEFET-MG (6th Semester)
+- 💼 **Roles:** Full-Stack Developer • Game Dev Studio Vessel • Robotics & Programming Teacher (HZN Labs)
+- 🗣️ **Languages:** Portuguese (Native) • English (Intermediate) • Spanish (Intermediate)
 
-- 📱 Building **Easy Trip**, a travel & local hangouts app (React Native + Expo)
-- 🏥 **Scrum Master & Full-Stack** on **HealthBridge** (AI medical triage, LGPD)
+- 🧑‍🏫 **Intern at HZN Labs** (2026): robotics & programming teacher (1st–8th grade) and software development
+- 🎓 Completed **Santander Bootcamp | Fullstack Developer** (DIO, 125h) with Spring Boot, Spring Cloud and Angular
+- 🏥 **Scrum Master & Full-Stack** on **HealthBridge** (complete): AI medical triage with LGPD compliance
 - 📚 Built **Acme Hub**, academic planner SaaS with SIGAA sync for CEFET-MG
-- 🎓 **Santander Bootcamp | Fullstack Developer** (DIO, 125h) · Spring Boot, Spring Cloud, Angular
-- 🤖 Intern at **HZN Labs** · taught robotics & programming (grades 1–8) and built software
+- ✈️ Developing **Easy Trip**, a travel & local hangouts mobile app (React Native + Expo)
 - 🎮 Developing **Whispers of the Mind**, a 2D Metroidvania at Studio Vessel
-- 👨‍🏫 Former teaching assistant · Intro to Programming (CEFET-MG technical course, 2024)
-- 💼 Intern at **Prefeitura de Divinópolis** (2025–2026)
+- 👨‍🏫 Former **Teaching Assistant** for Intro to Programming (CEFET-MG technical course, 2024)
+- 💼 **Intern at Prefeitura de Divinópolis** (2025–2026)
 
 ---
 
@@ -62,6 +62,18 @@
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja2"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
 </p>
 
 <p align="center">
@@ -71,7 +83,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/GML-000000?style=for-the-badge&logo=gamemaker&logoColor=white" alt="GML"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/TIC--80-29A0E0?style=for-the-badge&logoColor=white" alt="TIC-80"/>
+  <img src="https://img.shields.io/badge/TIC--80-29A0E0?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABSSURBVChTY/hPAAyEaGIAkyNO0Kj4/zsgMIYSRAEmR5ygUXEQkCBCHAOYHHGCRsVBQIIIcQxgcsQJGhUHAQkixDGAyREnaFQcBCSIEP8PAACuXA8P8GTHPQAAAABJRU5ErkJggg==&logoColor=white" alt="TIC-80"/>
 </p>
 
 <details>
@@ -80,12 +92,12 @@
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | C, C++, Python, Java, Lua, JavaScript, TypeScript, HTML, CSS |
+| **Languages** | C, C++, Python, Java, Lua, JavaScript, TypeScript, HTML, CSS, Bash, LaTeX |
 | **Front-End & Mobile** | React, React Native, Expo, Next.js, Angular, Vite, Jinja2 |
 | **Back-End & Data** | Spring Boot, Spring Cloud, FastAPI, Fastify, Node.js, SQLAlchemy, Supabase, PostgreSQL, H2, SQLite |
-| **Game Dev** | GameMaker (GML), Godot (GDScript), TIC-80 (Lua), Robotics |
+| **Game Dev** | Godot (GDScript), GameMaker (GML), TIC-80 (Lua), Robotics |
 | **IA & Automation** | Gemini, OpenAI, Ollama, Playwright, Google Places |
-| **Tools** | Git, GitHub, Linux, Docker, Maven, Zod, Figma, Railway |
+| **Tools** | Git, GitHub, Linux, Docker, Maven, Zod, Figma, Railway, VS Code |
 
 </details>
 
@@ -96,11 +108,11 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📱 Easy Trip</h3>
+      <h3 align="center">✈️ Easy Trip</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" alt="Status"/>
       </p>
-      <p><b>Travel & local hangouts mobile app.</b> AI itineraries, check-in, map, PDF export, night radar with Google Places. Backend Fastify (server-side keys) + Supabase.</p>
+      <p><b>Travel & local hangouts mobile app.</b> AI itineraries, check-in, map, PDF export, Night Radar with Google Places, Fastify backend (server-side keys) + Supabase.</p>
       <p>
         <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
         <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
@@ -116,7 +128,7 @@
           <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" alt="Status"/>
         </a>
       </p>
-      <p><b>Academic planner SaaS for CEFET-MG.</b> SIGAA sync via Playwright, dashboard with RG & integralization, smart calendar, grade/enrollment simulator, PPC mind map, Expo mobile app.</p>
+      <p><b>Academic planner SaaS for CEFET-MG.</b> SIGAA sync via Playwright, dashboard with RG and progress, smart calendar, grade/enrollment simulator, PPC mind map and Expo mobile app.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -134,14 +146,14 @@
           <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" alt="Status"/>
         </a>
       </p>
-      <p><b>AI medical triage & scheduling.</b> Scrum Master and Full-Stack. Multi-provider AI chatbot, CFM specialties, proximity booking, JWT, rate limiting, LGPD audit.</p>
+      <p><b>AI medical triage & scheduling platform.</b> Scrum Master and Full-Stack. Multi-provider chatbot, proximity booking, JWT, rate limiting and LGPD audit.</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square" alt="Jinja2"/>
+        <img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white" alt="Jinja2"/>
         <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+        <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="AI"/>
         <img src="https://img.shields.io/badge/LGPD-003DA5?style=flat-square" alt="LGPD"/>
-        <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square" alt="AI"/>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -149,7 +161,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" alt="Status"/>
       </p>
-      <p><b>2D Metroidvania pixel art game.</b> Follow Luna in a world of shadows as she battles the demons of her own mind. A game about fears, music, and self-discovery.</p>
+      <p><b>A 2D Metroidvania pixel art game.</b> Follow Luna in a world of shadows as she battles the demons of her own mind. A game about fears, music, and self-discovery.</p>
       <p>
         <img src="https://img.shields.io/badge/GameMaker-000000?style=flat-square&logo=gamemaker&logoColor=white" alt="GameMaker"/>
         <img src="https://img.shields.io/badge/GML-000000?style=flat-square&logo=gamemaker&logoColor=white" alt="GML"/>
@@ -158,29 +170,28 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📰 News Trends Monitor</h3>
+      <h3 align="center">☁️ Spring Cloud Microservices</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" alt="Status"/>
+      </p>
+      <p><b>Multi-module architecture with Eureka, Config Server, API Gateway, product catalog (JPA + H2) and shopping cart.</b> Java 17, Spring Boot 3 and Spring Cloud (Santander Bootcamp).</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+        <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📰 News Trends Monitoring</h3>
       <p align="center">
         <a href="https://github.com/KairoHenrique/Monitoramento-de-Tendencias-em-Manchetes-de-Noticias" target="_blank">
           <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" alt="Status"/>
         </a>
       </p>
-      <p><b>1.24M headlines in ~0.59s.</b> Custom hash table, inverted index, Jaccard, mmap multithreading. Top-100 frequent/emerging terms and similarity search (AEDS I · CEFET-MG).</p>
+      <p><b>C++17 pipeline processing 1.24M headlines in ~0.59s.</b> Custom hash table, inverted index, Jaccard similarity and multithreaded mmap (AEDS I, CEFET-MG).</p>
       <p>
-        <img src="https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-        <img src="https://img.shields.io/badge/mmap-000000?style=flat-square" alt="mmap"/>
-        <img src="https://img.shields.io/badge/Multithreading-6E40C9?style=flat-square" alt="Multithreading"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">☁️ Spring Cloud Microservices</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" alt="Status"/>
-      </p>
-      <p><b>Multi-module architecture.</b> Eureka, Config Server, API Gateway, product catalog (JPA + H2) and shopping cart. Java 17, Spring Boot 3, Spring Cloud (Santander Bootcamp).</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-        <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/Multithreading-0D1117?style=flat-square" alt="Multithreading"/>
       </p>
     </td>
   </tr>
@@ -192,7 +203,7 @@
           <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" alt="Status"/>
         </a>
       </p>
-      <p><b>2D Boss Rush for TIC-80.</b> Fast-paced action in Lua with challenging bosses and pixel art. Presented at TIC-80 (2025).</p>
+      <p><b>2D Boss Rush game built for TIC-80.</b> Fast-paced action in Lua with challenging bosses and pixel art. Presented at TIC-80 (2025).</p>
       <p>
         <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua"/>
         <img src="https://img.shields.io/badge/TIC--80-29A0E0?style=flat-square" alt="TIC-80"/>
@@ -203,9 +214,11 @@
       <p align="center">
         <a href="https://github.com/KairoHenrique/Simulador-de-Incendio" target="_blank">
           <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" alt="Status"/>
+          &nbsp;
+          <img src="https://img.shields.io/github/stars/KairoHenrique/Simulador-de-Incendio?style=flat-square&color=yellow" alt="Stars"/>
         </a>
       </p>
-      <p><b>Forest fire spread simulation.</b> Real-time visualization of dynamic systems with Raylib (AED1 · CEFET-MG).</p>
+      <p><b>Forest fire spread simulation with Raylib.</b> Real-time visualization of dynamic systems (AED1, CEFET-MG).</p>
       <p>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
         <img src="https://img.shields.io/badge/Raylib-000000?style=flat-square" alt="Raylib"/>
@@ -214,33 +227,32 @@
   </tr>
 </table>
 
-> 📌 **See all my repositories** → [github.com/KairoHenrique?tab=repositories](https://github.com/KairoHenrique?tab=repositories)
+> 📌 **See all projects** → [kairo-wine.vercel.app](https://kairo-wine.vercel.app) · [github.com/KairoHenrique?tab=repositories](https://github.com/KairoHenrique?tab=repositories)
 
 ---
 
 ## 🎓 Experience & Education
 
 ```
-🎓 Computer Engineering · CEFET-MG (2024–2029 | 6th period)
-🤖 Intern · Robotics & Programming Teacher · HZN Labs (2026)
-🎓 Santander Bootcamp | Fullstack Developer · DIO (125h · Sep 2026)
-🏥 Scrum Master & Full-Stack · HealthBridge (2026)
+🎓 Computer Engineering · CEFET-MG (2024–2029 | 6th Semester)
+🧑‍🏫 Intern · HZN Labs (Robotics & Programming teacher + software, 2026)
+🎓 Santander Bootcamp | Fullstack Developer · DIO (125h, Sep 2026)
+🏥 Scrum Master & Full-Stack · HealthBridge (2026, complete)
 🎮 Game Dev · Studio Vessel (2025–Present)
 💼 Intern · Prefeitura de Divinópolis (2025–2026)
-👨‍🏫 Teaching Assistant · Intro to Programming · CEFET-MG Technical Course (2024)
+👨‍🏫 Teaching Assistant · Intro to Programming, CEFET-MG technical course (2024)
 🎨 Art Finalist · Poligráfica · Gráfica Express (2023–2024)
 ```
 
 ---
 
-## 🌱 Currently Learning / Recent Focus
+## 🌱 Currently Learning
 
-- 📱 **React Native & Expo** · mobile full-stack architecture
-- ☕ **Spring Boot / Spring Cloud** · microservices & REST APIs
-- 🧩 **Angular 17** · SPA front-ends
-- 🏗️ **Fastify + Supabase** · travel app backend
-- 🤖 **Applied AI** · healthcare, itineraries, game systems
-- 🧱 **Clean Architecture & SOLID**
+- 📱 **React Native & Expo** · mobile full-stack (Easy Trip)
+- ☁️ **Spring Cloud microservices** · Eureka, Gateway, Config Server
+- 🅰️ **Angular 17** · SPA with Spring Boot APIs
+- 🏗️ **Software Architecture** · Clean Architecture, SOLID
+- 🤖 **Applied AI** · healthcare, travel and game systems
 
 ---
 
