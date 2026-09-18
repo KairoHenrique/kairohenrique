@@ -122,13 +122,22 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📚 Acme Hub</h3>
+      <h3 align="center">📚 ACME HUB</h3>
       <p align="center">
+        <a href="https://acme-hub.khfm.workers.dev" target="_blank">
+          <img src="https://img.shields.io/badge/Live-acme--hub.khfm.workers.dev-0A66C2?style=flat-square" alt="Live"/>
+        </a>
+        &nbsp;
         <a href="https://github.com/KairoHenrique/CEFET-Academic-Planner" target="_blank">
-          <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" alt="Status"/>
+          <img src="https://img.shields.io/badge/Repo-CEFET--Academic--Planner-100000?style=flat-square&logo=github" alt="Repo"/>
         </a>
       </p>
-      <p><b>Academic planner SaaS for CEFET-MG.</b> SIGAA sync via Playwright, dashboard with RG and progress, smart calendar, grade/enrollment simulator, PPC mind map and Expo mobile app.</p>
+      <p><b>ACME HUB</b> — academic planner for CEFET-MG (free + optional ads). SIGAA sync (Playwright), dashboard, calendar, grade/enrollment simulator, PPC graph map, Expo Android app. Repo: <code>CEFET-Academic-Planner</code>.</p>
+      <p>
+        <a href="https://acme-hub.khfm.workers.dev" target="_blank">Open site →</a>
+        ·
+        <a href="https://github.com/KairoHenrique/CEFET-Academic-Planner" target="_blank">GitHub →</a>
+      </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
