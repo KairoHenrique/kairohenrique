@@ -124,8 +124,8 @@
     <td width="50%" valign="top">
       <h3 align="center">📚 ACME HUB</h3>
       <p align="center">
-        <a href="https://acme-hub.khfm.workers.dev" target="_blank">
-          <img src="https://img.shields.io/badge/Live-acme--hub.khfm.workers.dev-0A66C2?style=flat-square" alt="Live"/>
+        <a href="https://acmehub.com.br" target="_blank">
+          <img src="https://img.shields.io/badge/Live-acmehub.com.br-0A66C2?style=flat-square" alt="Live"/>
         </a>
         &nbsp;
         <a href="https://github.com/KairoHenrique/CEFET-Academic-Planner" target="_blank">
@@ -134,7 +134,7 @@
       </p>
       <p><b>ACME HUB</b> — academic planner for CEFET-MG (free + optional ads). SIGAA sync (Playwright), dashboard, calendar, grade/enrollment simulator, PPC graph map, Expo Android app. Repo: <code>CEFET-Academic-Planner</code>.</p>
       <p>
-        <a href="https://acme-hub.khfm.workers.dev" target="_blank">Open site →</a>
+        <a href="https://acmehub.com.br" target="_blank">Open site →</a>
         ·
         <a href="https://github.com/KairoHenrique/CEFET-Academic-Planner" target="_blank">GitHub →</a>
       </p>
