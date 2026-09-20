@@ -35,10 +35,11 @@
 
 - 🧑‍🏫 **Intern at HZN Labs** (2026): robotics & programming teacher (1st–8th grade) and software development
 - 🎓 Completed **Santander Bootcamp | Fullstack Developer** (DIO, 125h) with Spring Boot, Spring Cloud and Angular
-- 🏥 **Scrum Master & Full-Stack** on **HealthBridge** (complete): AI medical triage with LGPD compliance
-- 📚 Built **Acme Hub**, academic planner SaaS with SIGAA sync for CEFET-MG
-- ✈️ Developing **Easy Trip**, a travel & local hangouts mobile app (React Native + Expo)
+- 📚 Built **Acme Hub**, academic planner SaaS with SIGAA sync for CEFET-MG ([live](https://acmehub.com.br))
+- ✈️ Developing **Easy Trip**, travel & local hangouts app (React Native + Expo + Fastify + Supabase): AI itineraries, Night Radar, maps, PDF, cloud sync, Coolors themes
+- 🏥 Developing **SEMUSA**, health indicators dashboard (React + Vite + Recharts) for public-health metrics
 - 🎮 Developing **Whispers of the Mind**, a 2D Metroidvania at Studio Vessel
+- 🏥 **Scrum Master & Full-Stack** on **HealthBridge** (complete): AI medical triage with LGPD compliance
 - 👨‍🏫 Former **Teaching Assistant** for Intro to Programming (CEFET-MG technical course, 2024)
 - 💼 **Intern at Prefeitura de Divinópolis** (2025–2026)
 
@@ -96,7 +97,7 @@
 | **Front-End & Mobile** | React, React Native, Expo, Next.js, Angular, Vite, Jinja2 |
 | **Back-End & Data** | Spring Boot, Spring Cloud, FastAPI, Fastify, Node.js, SQLAlchemy, Supabase, PostgreSQL, H2, SQLite |
 | **Game Dev** | Godot (GDScript), GameMaker (GML), TIC-80 (Lua), Robotics |
-| **IA & Automation** | Gemini, OpenAI, Ollama, Playwright, Google Places |
+| **IA & Automation** | Gemini, OpenAI, Ollama, Playwright, Google Places, Recharts |
 | **Tools** | Git, GitHub, Linux, Docker, Maven, Zod, Figma, Railway, VS Code |
 
 </details>
@@ -107,20 +108,6 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">✈️ Easy Trip</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" alt="Status"/>
-      </p>
-      <p><b>Travel & local hangouts mobile app.</b> AI itineraries, check-in, map, PDF export, Night Radar with Google Places, Fastify backend (server-side keys) + Supabase.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
-        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify"/>
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
-      </p>
-    </td>
     <td width="50%" valign="top">
       <h3 align="center">📚 ACME HUB</h3>
       <p align="center">
@@ -146,6 +133,46 @@
         <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">✈️ Easy Trip</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" alt="Status"/>
+      </p>
+      <p><b>Travel & local hangouts mobile app.</b> Trip wizard, AI itineraries & city circuits, invites, maps, PDF export, expense splitting, Supabase sync, 8 Coolors themes, and <b>Night Radar</b> (weather + Google Places + AI curation). Fastify backend + Supabase auth.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify"/>
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 SEMUSA</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" alt="Status"/>
+      </p>
+      <p><b>Public-health indicators dashboard</b> (maternal-child health & colorectal cancer focus). Charts, filters and evolving API/database layer for municipal management support.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+        <img src="https://img.shields.io/badge/Recharts-8884d8?style=flat-square" alt="Recharts"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎮 Whispers of the Mind</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" alt="Status"/>
+      </p>
+      <p><b>A 2D Metroidvania pixel art game.</b> Follow Luna in a world of shadows as she battles the demons of her own mind. A game about fears, music, and self-discovery.</p>
+      <p>
+        <img src="https://img.shields.io/badge/GameMaker-000000?style=flat-square&logo=gamemaker&logoColor=white" alt="GameMaker"/>
+        <img src="https://img.shields.io/badge/GML-000000?style=flat-square&logo=gamemaker&logoColor=white" alt="GML"/>
+      </p>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -166,19 +193,6 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎮 Whispers of the Mind</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" alt="Status"/>
-      </p>
-      <p><b>A 2D Metroidvania pixel art game.</b> Follow Luna in a world of shadows as she battles the demons of her own mind. A game about fears, music, and self-discovery.</p>
-      <p>
-        <img src="https://img.shields.io/badge/GameMaker-000000?style=flat-square&logo=gamemaker&logoColor=white" alt="GameMaker"/>
-        <img src="https://img.shields.io/badge/GML-000000?style=flat-square&logo=gamemaker&logoColor=white" alt="GML"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center">☁️ Spring Cloud Microservices</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" alt="Status"/>
@@ -190,6 +204,8 @@
         <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud"/>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">📰 News Trends Monitoring</h3>
       <p align="center">
@@ -203,8 +219,6 @@
         <img src="https://img.shields.io/badge/Multithreading-0D1117?style=flat-square" alt="Multithreading"/>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🎮 Between Game</h3>
       <p align="center">
@@ -216,21 +230,6 @@
       <p>
         <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua"/>
         <img src="https://img.shields.io/badge/TIC--80-29A0E0?style=flat-square" alt="TIC-80"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔥 Fire Simulator</h3>
-      <p align="center">
-        <a href="https://github.com/KairoHenrique/Simulador-de-Incendio" target="_blank">
-          <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" alt="Status"/>
-          &nbsp;
-          <img src="https://img.shields.io/github/stars/KairoHenrique/Simulador-de-Incendio?style=flat-square&color=yellow" alt="Stars"/>
-        </a>
-      </p>
-      <p><b>Forest fire spread simulation with Raylib.</b> Real-time visualization of dynamic systems (AED1, CEFET-MG).</p>
-      <p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-        <img src="https://img.shields.io/badge/Raylib-000000?style=flat-square" alt="Raylib"/>
       </p>
     </td>
   </tr>
@@ -258,6 +257,7 @@
 ## 🌱 Currently Learning
 
 - 📱 **React Native & Expo** · mobile full-stack (Easy Trip)
+- 📊 **Dashboards & data viz** · React, Vite, Recharts (SEMUSA)
 - ☁️ **Spring Cloud microservices** · Eureka, Gateway, Config Server
 - 🅰️ **Angular 17** · SPA with Spring Boot APIs
 - 🏗️ **Software Architecture** · Clean Architecture, SOLID
