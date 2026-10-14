@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%91%8B+Hey%2C+I'm+Kairo+Henrique!;Computer+Engineering+%7C+CEFET-MG+6th+Semester;Full-Stack+Developer+%7C+Game+Dev+Studio+Vessel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%91%8B+Hey%2C+I'm+Kairo+Henrique!;Computer+Engineering+%7C+UFCI%2FMG+6th+Semester;Full-Stack+Developer+%7C+Game+Dev+Studio+Vessel" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -29,18 +29,19 @@
 ## 🧑‍💻 About Me
 
 - 🌐 **Portfolio:** [kairo-wine.vercel.app](https://kairo-wine.vercel.app)
-- 🎓 **Education:** Computer Engineering | CEFET-MG (6th Semester)
+- 🎓 **Education:** Computer Engineering | UFCI/MG (6th Semester)
 - 💼 **Roles:** Full-Stack Developer • Game Dev Studio Vessel • Robotics & Programming Teacher (HZN Labs)
 - 🗣️ **Languages:** Portuguese (Native) • English (Intermediate) • Spanish (Intermediate)
 
 - 🧑‍🏫 **Intern at HZN Labs** (2026): robotics & programming teacher (1st–8th grade) and software development
 - 🎓 Completed **Santander Bootcamp | Fullstack Developer** (DIO, 125h) with Spring Boot, Spring Cloud and Angular
-- 📚 Built **Acme Hub**, academic planner SaaS with SIGAA sync for CEFET-MG ([live](https://acmehub.com.br))
+- 📚 Built **Acme Hub**, academic planner SaaS with SIGAA sync for UFCI/MG ([live](https://acmehub.com.br))
+- 🎲 Built **MimicDice VTT**, self-hosted RPG virtual tabletop: desktop app for the GM, players in the browser, Foundry VTT compatible ([download](https://github.com/KairoHenrique/MimicDice-VTT/releases/latest))
 - ✈️ Developing **Easy Trip**, travel & local hangouts app (React Native + Expo + Fastify + Supabase): AI itineraries, Night Radar, maps, PDF, cloud sync, Coolors themes
 - 🏥 Developing **SEMUSA**, health indicators dashboard (React + Vite + Recharts) for public-health metrics
 - 🎮 Developing **Whispers of the Mind**, a 2D Metroidvania at Studio Vessel
 - 🏥 **Scrum Master & Full-Stack** on **HealthBridge** (complete): AI medical triage with LGPD compliance
-- 👨‍🏫 Former **Teaching Assistant** for Intro to Programming (CEFET-MG technical course, 2024)
+- 👨‍🏫 Former **Teaching Assistant** for Intro to Programming (UFCI/MG technical course, 2024)
 - 💼 **Intern at Prefeitura de Divinópolis** (2025–2026)
 
 ---
@@ -119,7 +120,7 @@
           <img src="https://img.shields.io/badge/Repo-CEFET--Academic--Planner-100000?style=flat-square&logo=github" alt="Repo"/>
         </a>
       </p>
-      <p><b>ACME HUB</b> — academic planner for CEFET-MG (free + optional ads). SIGAA sync (Playwright), dashboard, calendar, grade/enrollment simulator, PPC graph map, Expo Android app. Repo: <code>CEFET-Academic-Planner</code>.</p>
+      <p><b>ACME HUB</b> — academic planner for UFCI/MG (free + optional ads). SIGAA sync (Playwright), dashboard, calendar, grade/enrollment simulator, PPC graph map, Expo Android app. Repo: <code>CEFET-Academic-Planner</code>.</p>
       <p>
         <a href="https://acmehub.com.br" target="_blank">Open site →</a>
         ·
@@ -193,15 +194,23 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">☁️ Spring Cloud Microservices</h3>
+      <h3 align="center">🎲 MimicDice VTT</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" alt="Status"/>
+        <a href="https://github.com/KairoHenrique/MimicDice-VTT/releases/latest" target="_blank">
+          <img src="https://img.shields.io/github/v/release/KairoHenrique/MimicDice-VTT?style=flat-square&label=Release&color=0A66C2" alt="Release"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/KairoHenrique/MimicDice-VTT" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-MimicDice--VTT-100000?style=flat-square&logo=github" alt="Repo"/>
+        </a>
       </p>
-      <p><b>Multi-module architecture with Eureka, Config Server, API Gateway, product catalog (JPA + H2) and shopping cart.</b> Java 17, Spring Boot 3 and Spring Cloud (Santander Bootcamp).</p>
+      <p><b>Self-hosted RPG virtual tabletop.</b> The GM hosts from a Windows desktop app (auto-updates) and players join from the browser. Layered PixiJS map, vision and fog memory, formula-driven sheet builder, chests, traps, perception, effects, dice pools and Foundry VTT system compatibility. Real time over Socket.IO, Zod-validated, PT/EN/ES.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-        <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron"/>
+        <img src="https://img.shields.io/badge/PixiJS-E72264?style=flat-square" alt="PixiJS"/>
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
       </p>
     </td>
   </tr>
@@ -213,7 +222,7 @@
           <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" alt="Status"/>
         </a>
       </p>
-      <p><b>C++17 pipeline processing 1.24M headlines in ~0.59s.</b> Custom hash table, inverted index, Jaccard similarity and multithreaded mmap (AEDS I, CEFET-MG).</p>
+      <p><b>C++17 pipeline processing 1.24M headlines in ~0.59s.</b> Custom hash table, inverted index, Jaccard similarity and multithreaded mmap (AEDS I, UFCI/MG).</p>
       <p>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
         <img src="https://img.shields.io/badge/Multithreading-0D1117?style=flat-square" alt="Multithreading"/>
@@ -242,13 +251,13 @@
 ## 🎓 Experience & Education
 
 ```
-🎓 Computer Engineering · CEFET-MG (2024–2029 | 6th Semester)
+🎓 Computer Engineering · UFCI/MG (2024–2029 | 6th Semester)
 🧑‍🏫 Intern · HZN Labs (Robotics & Programming teacher + software, 2026)
 🎓 Santander Bootcamp | Fullstack Developer · DIO (125h, Sep 2026)
 🏥 Scrum Master & Full-Stack · HealthBridge (2026, complete)
 🎮 Game Dev · Studio Vessel (2025–Present)
 💼 Intern · Prefeitura de Divinópolis (2025–2026)
-👨‍🏫 Teaching Assistant · Intro to Programming, CEFET-MG technical course (2024)
+👨‍🏫 Teaching Assistant · Intro to Programming, UFCI/MG technical course (2024)
 🎨 Art Finalist · Poligráfica · Gráfica Express (2023–2024)
 ```
 
